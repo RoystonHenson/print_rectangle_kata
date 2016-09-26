@@ -1,3 +1,16 @@
 def print_rectangle
-  "THIS SHOULD BE A RECTANGLE!"
+
+	 return ( "|------------------|\n" +
+	          "|                  |\n" +
+	          "|                  |\n" +
+	          "|                  |\n" +
+	          "|                  |\n" +
+	          "|                  |\n" +
+	          "|                  |\n" +
+	          "|                  |\n" +
+	          "|                  |\n" +
+	          "|------------------|\n" )
+
+
+
 end
